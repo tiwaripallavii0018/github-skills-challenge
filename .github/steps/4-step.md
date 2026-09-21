@@ -1,4 +1,4 @@
-## Step 4: Enforce workflows
+changed## Step 4: Enforce workflows
 
 You may have noticed that the merge button was still active before our tests finished.
 Even worse, the some tests failed and there was nothing to prevent merging the broken code anyway! 😱
